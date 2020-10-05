@@ -1,36 +1,34 @@
-## Welcome to GitHub Pages
+## Hola mi nombre es Víctor Vélez 
 
-You can use the [editor on GitHub](https://github.com/VictorVelezG/miweb/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Me llamo Víctor Vélez, tengo 22 años y soy de la ciudad de Guanajuato.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Actualmente estudio la carrea de Ingenieria Industrial y Administración en la Universidad Autónoma de Nuevo León.
 
-### Markdown
+### Cómo soy?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Soy una persona tranquila, responsable en mis obligaciones y serio en algunas ocasiones. Soy amante de la cerveza, la música rock, salir con amigos y ver series.
 
-```markdown
-Syntax highlighted code block
+```Mis estudios
+En mi vida estudiantil he tenido la oportunidad de realizar un intercambio académico a la ciudad de Eugene, Oregon en Estados Unidos. También para mi licenciatura decidí moverme a Monterrey, Nuevo León. 
 
-# Header 1
-## Header 2
-### Header 3
+#Escuela de Nivel Medio Superior de Guanajuato.
+## Oak Hill High School, OR, USA.
+### Facultad de Ciencias Químicas, UANL.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### Logros personales
 
-[Link](url) and ![Image](src)
-```
+Meritos académicos en mi carrera universitaria, estos son reconocimiento al desempeño académico en varios semestres. 
+Tambén considero como un logro el salir de mi zona de confort y vivir tanto en el extranjero como en Monterrey, Nuevo León. En ambas ocasiones he tenido que adaptarme a los cambios. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Intereses
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/VictorVelezG/miweb/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+-La música, en especial el rock y el metal (aunque escuche generos muy variados).
+-Me gusta la cerveza y sueño con abrir mi propia cervecería artesanal.
+-Ver series.
+-Deportes, principalmente fútbol y basquetbol.
+-Cocina, especialmente carne asada. 
 
 ### Support or Contact
 
